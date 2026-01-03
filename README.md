@@ -18,7 +18,7 @@ I’m a student, Type 1 Diabetes community advocate, and endurance athlete drive
 
 
 ## 🌐 Let's Build Something
-I’m always open to exploring new projects, collaborating on ambitious ideas, or connecting over tech, travel, and the systems that shape how we live!
+Big on exploring new projects, collaborating on ambitious ideas, or connecting over tech, travel, and the systems that shape how we live!
 - 💼 **LinkedIn**: [Polina Kukhar](https://www.linkedin.com/in/pokukhlink/)
 - 📧 **Email**: kukhappo@gmail.com
 
