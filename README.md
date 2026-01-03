@@ -21,8 +21,8 @@ I'm a student, a Type 1 Diabetes community advocate, and an endurance athlete. I
 ## 🌐 Let's Connect!
 I’m always open to discussing new projects, collaborating on innovative ideas, or just having a chat about tech, travel, and everything in between.
 
-- 💼 LinkedIn: [Polina Kukhar](https://www.linkedin.com/in/pokukhlink/)
-- 📧 Email: kukhappo@gmail.com
+- 💼 **LinkedIn**: [Polina Kukhar](https://www.linkedin.com/in/pokukhlink/)
+- 📧 **Email**: kukhappo@gmail.com
 
 
 ## Fun Facts
