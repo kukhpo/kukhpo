@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Polina Kukhar 
 I’m a student, Type 1 Diabetes community advocate, and endurance athlete driven by the challenge of building impactful software. I’m especially interested in how technology can be thoughtfully applied across industries to solve complex, real-world problems.
 
-## 🌟 Current Focus
+## 💠 Current Focus
 - 🧑‍💻 **Currently**: Pursuing an Information Science degree at Columbia University (undergraduate senior)
 - 📚 **Learning**: Deepening my skills in information governance as a consultant to TikTok's Global Security Organization.
 - 💡 **Exploring**: The intersection of tech and healthcare, with a vision to build innovative solutions for the Type 1 Diabetes community.
@@ -14,15 +14,15 @@ I’m a student, Type 1 Diabetes community advocate, and endurance athlete drive
 - **Currently Exploring**: LLMs, Generative AI, and advanced ML models
 
 
-## 🎓 Beyond Code
+## 🔭 Beyond Code
 
 
-## 🌐 Let's Build Something
+## 👾 Let's Build Something
 Big on exploring new projects, collaborating on ambitious ideas, or connecting over tech, travel, and the systems that shape how we live!
-- 💼 **LinkedIn**: [Polina Kukhar](https://www.linkedin.com/in/pokukhlink/)
+- 🔗 **LinkedIn**: [Polina Kukhar](https://www.linkedin.com/in/pokukhlink/)
 - 📧 **Email**: kukhappo@gmail.com
 
 
-## Fun Facts
+## 🔅 Fun Facts
 - **Languages**: I am proficient in English, Russian, Ukrainian, and am learning Brazilian Portuguese.
 - **Travel**: I studied abroad for two years of my undergraduate education and have traveled to 20+ countries.
