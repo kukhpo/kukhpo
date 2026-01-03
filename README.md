@@ -9,8 +9,9 @@ I'm a student, a Type 1 Diabetes community advocate, and an endurance athlete. I
 
 
 ## 🛠️ Tech Stack 
-- Languages: Python, JavaScript (TypeScript), Java, C++, Kotlin
+- Languages: Python, SQL, Java, JavaScript (TypeScript), C++, HTML, CSS
 - Frameworks & Tools: React.js, Node.js, Express.js, MongoDB, Polymer, TensorFlow, TailwindCSS
+- Softwares: Tableau, Power BI, Microsoft Suite [Excel, PowerPoint], Adobe Creative Cloud [Premiere Pro, PhotoShop], Canva, Figma, Balsamiq
 - Currently Exploring: LLMs, Generative AI, and advanced ML models
 
 
