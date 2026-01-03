@@ -17,7 +17,8 @@ I’m a student, Type 1 Diabetes community advocate, and endurance athlete drive
 ## 🔭 Beyond Code
 - **Speaker**: Thrive Out Loud conference panelist for T1D, NextGen Fellow @ the Diabetes Link
 - **Athletic Interests**: 2x marathoner [New York City + Sydney TCS] (Over $5000 raised for Type 1 Diabetes), weightlifting, soccer, volleyball, skiing
-- **Equity**: Google's _Building for Everyone_ Summit 2025
+- **Equity**: Google's _Building for Everyone_ Summit 2025, Dawson Institute 2025
+- Zeta Theta Delta Gamma at Columbia University
 
 
 ## 👾 Let's Build Something
