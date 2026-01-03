@@ -1,5 +1,8 @@
 ## Hey there, I'm Polina Kukhar 👋
 
+- Undergraduate senior at Columbia University
+- Information Science major
+- Interested in all things governance, data analytics, and developing impactful solutions for the Type 1 Diabetes community.
 <!--
 **kukhpo/kukhpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-------------------------------
