@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Polina Kukhar 
-I’m a student, Type 1 Diabetes community advocate, and endurance athlete driven by the challenge of building impactful software. I’m especially interested in how technology can be thoughtfully applied across industries to solve complex, real-world problems.
+I’m a student and Type 1 Diabetes community advocate driven by the challenge of building impactful software. I’m especially interested in how technology can be thoughtfully applied across industries to solve complex, real-world problems.
 
 ## 💠 Focuses
 - 🧑‍💻 **Currently**: Pursuing an Information Science degree at Columbia University (undergraduate senior)
