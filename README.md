@@ -1,5 +1,6 @@
-## Hey there, I'm Polina Kukhar 👋
+# Hey there, I'm Polina Kukhar 👋
 
-- 🎒Undergraduate senior at Columbia University
-- 💻 Information Science major
-- 🔆 Interested in all-things governance, data analytics, and developing impactful solutions for the Type 1 Diabetes community.
+## What I'm Up To
+🧑‍💻 Currently: Pursuing an Information Science degree at Columbia University (undergraduate senior)
+📚 Learning: Deepening my skills in information governance, data analytics, and cybersecurity. 
+💡 Exploring: The intersection of tech and healthcare, with a vision to build innovative solutions for the Type 1 Diabetes community
