@@ -24,5 +24,5 @@ Big on exploring new projects, collaborating on ambitious ideas, or connecting o
 
 
 ## Fun Facts
-- **Languages**: I am proficient in English, Russian, Ukrainian, and am learning Brazilian Portuguese
-- **Travel**: I studied abroad for 2 years of my undergraduate education, and have traveled to 20+ countries
+- **Languages**: I am proficient in English, Russian, Ukrainian, and am learning Brazilian Portuguese.
+- **Travel**: I studied abroad for two years of my undergraduate education and have traveled to 20+ countries.
