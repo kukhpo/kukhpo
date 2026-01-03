@@ -25,5 +25,5 @@ I’m always open to discussing new projects, collaborating on innovative ideas,
 
 
 ## Fun Facts
-- Languages: I am proficient in English, Russian, Ukrainian, and am learning Brazilian Portuguese
-- Travel: I studied abroad for 2 years of my undergraduate education, and have traveled to 20+ countries
+- **Languages**: I am proficient in English, Russian, Ukrainian, and am learning Brazilian Portuguese
+- **Travel**: I studied abroad for 2 years of my undergraduate education, and have traveled to 20+ countries
